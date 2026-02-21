@@ -1,15 +1,26 @@
-# P3-JSE-Avocats
+🟦 Projet 3 — Booki
 
-JSE Avocats
-Catégorie : Test
-Résumé : Campagne de tests fonctionnels sur un site web dans un contexte professionnel simulé.
-Objectif : Valider les fonctionnalités existantes à l’aide d’un cahier de recette.
-Travail réalisé
-- Exécution pas-à-pas des cas de test définis
-- Tests exploratoires complémentaires
-- Suivi des résultats (OK/KO) et description des anomalies dans un fichier Excel
-Téléchargements
-- Cahier de recette — assets/documents/cahiers_de_recette_P4.xlsx
-- Présentation du projet 4 — assets/documents/Presentation_P4.pdf
 
+📝 Description
+Intégration complète d'un site responsive pour une agence de voyage fictive, à partir d'une maquette Figma. L'accent est mis sur la fidélité au design et l'adaptabilité multi-écrans.
+
+🎯 Objectif
+Transformer une maquette en site web accessible et adaptable à tous les écrans (mobile, tablette, desktop).
+
+🛠️ Travail réalisé
+Structuration du contenu avec HTML sémantique
+
+Mise en page responsive en CSS (Flexbox / Grid)
+
+Fidélité au design Figma fourni
+
+Respect de l'accessibilité et compatibilité multi-appareils
+
+🔗 Liens
+🐙 GitHub
+
+🌐 Démo en ligne
+
+📄 Documents
+Présentation du projet 3
 
